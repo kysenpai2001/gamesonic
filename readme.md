@@ -2,7 +2,7 @@
 
 Live demo : https://sonicgameksi.netlify.app/
 
-Video demo:
+Video demo: https://youtu.be/lFnStZqkiyg
 
 How to run this project:
 
