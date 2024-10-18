@@ -1,6 +1,8 @@
 # GAME SONIC VIETSUB
 
-Live demo : 
+Live demo : https://sonicgameksi.netlify.app/
+
+Video demo:
 
 How to run this project:
 
